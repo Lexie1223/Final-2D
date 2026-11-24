@@ -1,7 +1,7 @@
 # GDIM 31 Final: 2D
 ## Devlogs
 ### Milestone 1
-table13
+table13  2D
 
 https://docs.google.com/document/d/1R4EA6nM4H4N9eVCOL5yd7b_DKLYYtCJnHjEnYstXoxs/edit?tab=t.0
 
